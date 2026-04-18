@@ -1,16 +1,24 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Abhishek%20Acharya&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+
 <h1 align="center">Hi 👋, I'm Abhishek Acharya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=#000000&size=25&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Enthusiast;AI+Developer;Building+Real-World+Projects;Future+Data+Scientist+2025🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Data+Science+Engineering+Student;Machine+Learning+Enthusiast;AI+Projects+Builder;Aspiring+Data+Analyst+%7C+Open+to+Opportunities🚀" />
 </p>
+
+<p align="center">
+  Turning Data into Insights 📊 | Building Real-World AI Solutions 🚀
+</p>
+
+---
 
 ## 🚀 About Me
 
 * 🎓 B.E. in Computer Science & Data Science (CGPA: 8.82)
 * 📍 Bengaluru, India
-* 💡 Passionate about **Machine Learning, Data Science, and AI Systems**
-* 🧠 Currently building **real-world analytics dashboards & AI projects**
-* 🎯 Goal: Become a **Data Analyst in 2026**
+* 💡 Passionate about **Data Analytics, Machine Learning, and AI Systems**
+* 🧠 Building **real-world dashboards, ML models, and AI projects**
+* 🎯 Focused on becoming a **Data Analyst / Data Scientist**
 
 ---
 
@@ -24,7 +32,7 @@
 
 ---
 
-### 📊 Data & ML
+### 📊 Data & Machine Learning
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
@@ -34,7 +42,7 @@
 
 ---
 
-### 👁️‍🗨️ AI & Computer Vision
+### 👁️ AI & Computer Vision
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
 ![YOLO](https://img.shields.io/badge/YOLO-red?style=for-the-badge)
@@ -55,7 +63,8 @@
 ### 🛒 E-commerce Analytics Dashboard
 
 * Built an interactive dashboard with **revenue, profit, funnel, and delivery insights**
-* Implemented **filters, heatmaps, and business KPIs**
+* Implemented **filters, heatmaps, and KPI-driven analytics**
+* Delivered actionable **business insights for decision-making**
 * Tools: Python, Pandas, Plotly, Streamlit
 
 ---
@@ -63,23 +72,26 @@
 ### 🎬 Movie Recommendation System
 
 * Developed NLP-based recommender using **CountVectorizer & Cosine Similarity**
-* Generated **Top-5 recommendations**
+* Generated **Top-5 personalized recommendations**
+* Optimized feature engineering using **text preprocessing techniques**
 * Tools: Python, Scikit-learn, NLTK
 
 ---
 
 ### ⚽ Football Analysis System
 
-* Real-time player detection using **YOLOv8**
-* Applied **K-means clustering & optical flow**
+* Built real-time system using **YOLOv8 for player & object detection**
+* Applied **K-means clustering & optical flow for analysis**
+* Improved tracking accuracy using computer vision techniques
 * Tools: OpenCV, Deep Learning
 
 ---
 
 ### 🛍️ Retail Sales Analysis (SQL Project)
 
-* Designed PostgreSQL database
-* Performed **data cleaning, analysis & business insights**
+* Designed PostgreSQL database schema for large datasets
+* Performed **data cleaning, validation & transformation**
+* Extracted insights on **pricing, inventory & revenue trends**
 * Tools: SQL, Excel
 
 ---
@@ -94,18 +106,28 @@
 
 ## 📈 GitHub Stats
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek77600\&show_icons=true\&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek77600&show_icons=true&theme=radical" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Abhishek-black?style=for-the-badge\&logo=github)](https://github.com/Abhishek77600)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:acharyaabhishek801@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-acharya-data-analyst/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Abhishek77600">
+    <img src="https://img.shields.io/badge/GitHub-Abhishek-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:acharyaabhishek801@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-I love building **real-world AI systems** that solve practical problems 🚀
+I enjoy turning complex data into **simple, actionable insights** 🚀
