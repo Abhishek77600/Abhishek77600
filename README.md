@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Acharya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Enthusiast;AI+Developer;Building+Real-World+Projects;Future+Data+Scientist+2025🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=#000000&size=25&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Enthusiast;AI+Developer;Building+Real-World+Projects;Future+Data+Scientist+2025🚀" />
 </p>
 
 ## 🚀 About Me
@@ -10,7 +10,7 @@
 * 📍 Bengaluru, India
 * 💡 Passionate about **Machine Learning, Data Science, and AI Systems**
 * 🧠 Currently building **real-world analytics dashboards & AI projects**
-* 🎯 Goal: Become a **Data Scientist in 2025**
+* 🎯 Goal: Become a **Data Analyst in 2026**
 
 ---
 
