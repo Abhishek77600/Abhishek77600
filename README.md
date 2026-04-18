@@ -17,8 +17,8 @@
 * 🎓 B.E. in Computer Science & Data Science (CGPA: 8.82)
 * 📍 Bengaluru, India
 * 💡 Passionate about **Data Analytics, Machine Learning, and AI Systems**
-* 🧠 Building **real-world dashboards, ML models, and AI projects**
-* 🎯 Focused on becoming a **Data Analyst / Data Scientist**
+* 🧠 Building **real-world AI & analytics applications**
+* 🎯 Actively seeking **Data Analyst / Data Scientist opportunities**
 
 ---
 
@@ -49,7 +49,7 @@
 
 ---
 
-### 🗄️ Databases & Tools
+### 🗄️ Tools & Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
@@ -58,49 +58,57 @@
 
 ---
 
-## 📊 Featured Projects
+## 🚀 Featured Projects
+
+### 🤖 HirePro – Automatic Interviewer (AI Project) ⭐
+
+* Built an AI-powered **automated interview system**
+* Simulates real interview scenarios with **intelligent responses**
+* Helps candidates practice and improve performance
+* Demonstrates **LLM / AI workflow integration**
+* Tech: Python, AI APIs, NLP
+
+---
 
 ### 🛒 E-commerce Analytics Dashboard
 
-* Built an interactive dashboard with **revenue, profit, funnel, and delivery insights**
-* Implemented **filters, heatmaps, and KPI-driven analytics**
-* Delivered actionable **business insights for decision-making**
-* Tools: Python, Pandas, Plotly, Streamlit
+* Built interactive dashboard with **revenue, profit, funnel & delivery insights**
+* Implemented **filters, heatmaps, and business KPIs**
+* Generated actionable **business insights**
+* Tech: Python, Pandas, Plotly, Streamlit
 
 ---
 
 ### 🎬 Movie Recommendation System
 
-* Developed NLP-based recommender using **CountVectorizer & Cosine Similarity**
-* Generated **Top-5 personalized recommendations**
-* Optimized feature engineering using **text preprocessing techniques**
-* Tools: Python, Scikit-learn, NLTK
+* NLP-based recommender using **CountVectorizer & Cosine Similarity**
+* Generated **Top-5 recommendations**
+* Tech: Python, Scikit-learn, NLTK
 
 ---
 
 ### ⚽ Football Analysis System
 
-* Built real-time system using **YOLOv8 for player & object detection**
-* Applied **K-means clustering & optical flow for analysis**
-* Improved tracking accuracy using computer vision techniques
-* Tools: OpenCV, Deep Learning
+* Real-time detection using **YOLOv8**
+* Applied **K-means & optical flow**
+* Tech: OpenCV, Deep Learning
 
 ---
 
-### 🛍️ Retail Sales Analysis (SQL Project)
+### 🛍️ Retail Sales Analysis (SQL)
 
-* Designed PostgreSQL database schema for large datasets
-* Performed **data cleaning, validation & transformation**
-* Extracted insights on **pricing, inventory & revenue trends**
-* Tools: SQL, Excel
+* Designed PostgreSQL schema
+* Performed **data cleaning & business analysis**
+* Tech: SQL, Excel
 
 ---
 
-## 📜 Certifications
+## 🏆 Certifications
 
-* 🏆 Oracle Cloud Infrastructure 2025 – Generative AI Professional
-* 🔐 Cybersecurity Certification – Cyseck
-* 📊 SQL Certification
+* 🧠 **Oracle Cloud Infrastructure 2025 – Generative AI Professional**
+* 🗄️ **RDBMS PostgreSQL – IIT Bombay (Score: 95%)**
+* 📊 **SQL Course Certification**
+* 📈 **Microsoft Excel with AI Masterclass**
 
 ---
 
@@ -130,4 +138,4 @@
 
 ## ⚡ Fun Fact
 
-I enjoy turning complex data into **simple, actionable insights** 🚀
+I enjoy solving real-world problems using **AI, data, and automation** 🚀
